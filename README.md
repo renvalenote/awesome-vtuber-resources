@@ -36,6 +36,8 @@ Match your model format and tracking hardware to the application's requirements 
 - [VTube Studio](https://denchisoft.com/) — Animate Live2D models with face tracking and control expressions, props, and scene interactions. Its [official documentation and API repository](https://github.com/DenchiSoft/VTubeStudio) also supports plugin development; the repository is not the application's source code. **Website: EN.**
 - [VSeeFace](https://www.vseeface.icu/) — Drive VRM avatars with face and hand tracking, including tracking-data exchange through the VMC protocol. **Website: EN.**
 - [Warudo](https://www.warudo.app/) — Build 3D VTuber scenes with avatars, environments, props, and configurable interactions. See the [official handbook](https://docs.warudo.app/) for setup and supported tracking systems. **Handbook: EN / JA.**
+- [veadotube mini](https://veado.tube/) — Build a PNGTuber avatar from images that react to microphone input, with blinking and switchable expression states. See the [official usage guide](https://veado.tube/docs/usage/mini/) and [OBS capture guide](https://veado.tube/docs/usage/obs/). **Website and documentation: EN.**
+- [nizima LIVE](https://nizimalive.com/en/) — Live2D Inc.'s tracking app for animating Live2D models with a webcam or the companion iPhone tracker, with parameter adjustments and collaboration features. This is separate from the nizima marketplace. **Website: EN / JA.**
 - [OBS Studio](https://obsproject.com/) — Combine video, audio, and overlays into scenes for live streaming or recording. **Website: EN / JA and other languages.**
 
 ## Learning resources
@@ -80,3 +82,4 @@ When proposing a resource:
 5. Disclose any relationship to the project, and keep the English and Japanese entries in sync.
 
 Do not submit private-identity information, speculative links between past or alternate personas, leaked or unauthorized model files, or voice-cloning materials made without the speaker's permission. This list does not infer identities from voices, appearance, or social connections.
+
