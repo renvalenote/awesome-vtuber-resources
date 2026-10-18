@@ -39,6 +39,7 @@ VTuber活動に役立つツール、チュートリアル、検索サービス�
 - [veadotube mini](https://veado.tube/) — マイク入力に反応する画像でPNGTuberアバターを作り、まばたきや表情の切り替えを設定できるアプリ。[公式の使い方ガイド](https://veado.tube/docs/usage/mini/)と[OBSへの取り込みガイド](https://veado.tube/docs/usage/obs/)も参照してください。**サイト・ドキュメント：英語。**
 - [nizima LIVE](https://nizimalive.com/) — Webカメラや連携するiPhone用トラッカーでLive2Dモデルを動かす、Live2D社のトラッキングアプリ。パラメータ調整やコラボ機能も備えています。マーケットプレイスのnizimaとは別のサービスです。**サイト：英語・日本語。**
 - [OBS Studio](https://obsproject.com/) — 映像、音声、オーバーレイをシーンに組み合わせ、ライブ配信や録画を行うソフトウェア。**サイト：英語・日本語ほか。**
+- [わんコメ（OneComme）](https://onecomme.com/) — 複数の配信サイトのコメントをまとめて取得し、読み上げ、コメント表示、参加型配信の順番管理を行えるアプリ。[公式ドキュメント](https://onecomme.com/docs/about/)と[利用規約](https://onecomme.com/terms/)を参照してください。無料版は原則クレジット表記が必要で、例外もあります。一部機能・テンプレートは有料です。**リンク先サイト・ドキュメント：日本語。**
 
 ## 学習リソース
 
