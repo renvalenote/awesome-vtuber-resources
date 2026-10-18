@@ -39,6 +39,7 @@ Match your model format and tracking hardware to the application's requirements 
 - [veadotube mini](https://veado.tube/) — Build a PNGTuber avatar from images that react to microphone input, with blinking and switchable expression states. See the [official usage guide](https://veado.tube/docs/usage/mini/) and [OBS capture guide](https://veado.tube/docs/usage/obs/). **Website and documentation: EN.**
 - [nizima LIVE](https://nizimalive.com/en/) — Live2D Inc.'s tracking app for animating Live2D models with a webcam or the companion iPhone tracker, with parameter adjustments and collaboration features. This is separate from the nizima marketplace. **Website: EN / JA.**
 - [OBS Studio](https://obsproject.com/) — Combine video, audio, and overlays into scenes for live streaming or recording. **Website: EN / JA and other languages.**
+- [OneComme (わんコメ)](https://onecomme.com/) — Collect chat from multiple streaming platforms, read comments aloud, display comment overlays, and manage viewer participation queues. See the [official documentation](https://onecomme.com/docs/about/) and [terms](https://onecomme.com/terms/): free-version use generally requires attribution, with exceptions; some features and templates are paid. **Linked website and documentation: JA.**
 
 ## Learning resources
 
