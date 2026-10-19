@@ -28,6 +28,7 @@ Language notes describe the linked website or documentation, not a guarantee of 
 
 - [Live2D Cubism](https://www.live2d.com/en/) — Create and animate 2D models from illustrations. A starting point for artists and Live2D riggers. **Website: EN / JA.**
 - [VRoid Studio](https://vroid.com/en/studio) — Create humanoid 3D characters and export VRM models for compatible applications. **Website: EN / JA.**
+- [Inochi Creator](https://github.com/Inochi2D/inochi-creator) — Rig layered 2D artwork for the Inochi2D puppet format, for VTubing and other real-time applications. The source code uses the [BSD-2-Clause license](https://github.com/Inochi2D/inochi-creator/blob/v0_8/LICENSE); the repository notes separate restrictions for branding assets. **Repository: EN.**
 
 ## Tracking and streaming
 
