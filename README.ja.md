@@ -28,6 +28,7 @@ VTuber活動に役立つツール、チュートリアル、検索サービス�
 
 - [Live2D Cubism](https://www.live2d.com/) — イラストをもとに2Dモデルを制作し、動きを付けるためのソフトウェア。イラストレーターやLive2Dモデラーの制作の入口に。**サイト：英語・日本語。**
 - [VRoid Studio](https://vroid.com/studio) — 人型の3Dキャラクターを制作し、対応アプリで使えるVRMモデルとして書き出せるツール。**サイト：英語・日本語。**
+- [Inochi Creator](https://github.com/Inochi2D/inochi-creator) — レイヤー分けした2Dイラストに動きを付け、VTuber活動などのリアルタイム用途に使うInochi2D形式のモデルを制作するエディター。ソースコードは[BSD-2-Clauseライセンス](https://github.com/Inochi2D/inochi-creator/blob/v0_8/LICENSE)で公開されていますが、ブランド素材には別の制限があることがリポジトリに明記されています。**リポジトリ：英語。**
 
 ## トラッキングと配信
 
