@@ -29,6 +29,8 @@ Language notes describe the linked website or documentation, not a guarantee of 
 - [Live2D Cubism](https://www.live2d.com/en/) — Create and animate 2D models from illustrations. A starting point for artists and Live2D riggers. **Website: EN / JA.**
 - [VRoid Studio](https://vroid.com/en/studio) — Create humanoid 3D characters and export VRM models for compatible applications. **Website: EN / JA.**
 - [Inochi Creator](https://github.com/Inochi2D/inochi-creator) — Rig layered 2D artwork for the Inochi2D puppet format, for VTubing and other real-time applications. The source code uses the [BSD-2-Clause license](https://github.com/Inochi2D/inochi-creator/blob/v0_8/LICENSE); the repository notes separate restrictions for branding assets. **Repository: EN.**
+- [Krita](https://krita.org/en/features/) — Paint layered illustrations for model art and stream graphics, with layer management and PSD import/export for moving artwork between tools. **Website: EN / JA.**
+- [VRM Add-on for Blender](https://github.com/saturday06/VRM-Addon-for-Blender) — Import, edit, and export VRM avatars in Blender, including humanoid and MToon settings. Follow the installation instructions for your Blender version. **Repository: EN / JA.**
 
 ## Tracking and streaming
 
@@ -41,6 +43,7 @@ Match your model format and tracking hardware to the application's requirements 
 - [nizima LIVE](https://nizimalive.com/en/) — Live2D Inc.'s tracking app for animating Live2D models with a webcam or the companion iPhone tracker, with parameter adjustments and collaboration features. This is separate from the nizima marketplace. **Website: EN / JA.**
 - [OBS Studio](https://obsproject.com/) — Combine video, audio, and overlays into scenes for live streaming or recording. **Website: EN / JA and other languages.**
 - [OneComme (わんコメ)](https://onecomme.com/) — Collect chat from multiple streaming platforms, read comments aloud, display comment overlays, and manage viewer participation queues. See the [official documentation](https://onecomme.com/docs/about/) and [terms](https://onecomme.com/terms/): free-version use generally requires attribution, with exceptions; some features and templates are paid. **Linked website and documentation: JA.**
+- [VNyan](https://suvidriel.itch.io/vnyan) — Use VRM, VRM 1.0, and VSFAvatar models in a Windows VTubing app, with a node-graph interface for viewer interactions and OBS event integration. **Product page: EN.**
 
 ## Learning resources
 
@@ -56,6 +59,7 @@ A listing is a place to start your own checks. Confirm commercial use, attributi
 - [VRoid Hub](https://hub.vroid.com/en) — Browse 3D characters and their usage conditions. A public model page does not necessarily permit downloads, streaming, or redistribution. **Website: EN / JA.**
 - [Live2D Sample Models](https://www.live2d.com/en/learn/sample/) — Study official sample models and their construction. Read the applicable sample-data terms before using them in your own work. **Website: EN / JA.**
 - [hololive Production Derivative Works Guidelines](https://hololivepro.com/en/terms/) — Consult the rights holder's rules when making relevant hololive fan works. These guidelines do not grant permission for unrelated creators' work. **Guidelines: EN / JA.**
+- [BOOTH](https://booth.pm/en) — Browse creator shops for 3D models, textures, and stream assets. Check each item's format, supported applications, and creator-defined usage terms before buying or using it. **Website: EN / JA; listing languages vary.**
 
 ## Discovery and public credits
 
