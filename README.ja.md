@@ -29,6 +29,7 @@ VTuber活動に役立つツール、チュートリアル、検索サービス�
 - [Live2D Cubism](https://www.live2d.com/) — イラストをもとに2Dモデルを制作し、動きを付けるためのソフトウェア。イラストレーターやLive2Dモデラーの制作の入口に。**サイト：英語・日本語。**
 - [VRoid Studio](https://vroid.com/studio) — 人型の3Dキャラクターを制作し、対応アプリで使えるVRMモデルとして書き出せるツール。**サイト：英語・日本語。**
 - [Inochi Creator](https://github.com/Inochi2D/inochi-creator) — レイヤー分けした2Dイラストに動きを付け、VTuber活動などのリアルタイム用途に使うInochi2D形式のモデルを制作するエディター。ソースコードは[BSD-2-Clauseライセンス](https://github.com/Inochi2D/inochi-creator/blob/v0_8/LICENSE)で公開されていますが、ブランド素材には別の制限があることがリポジトリに明記されています。**リポジトリ：英語。**
+- [Ayatsuri2D](https://ayatsuri-2d.org/)：PSD・Krita・Clip Studio Paintのレイヤー分けしたイラストからLive2D形式のモデルを制作し、Cubism Editorのプロジェクトを開いて、VTube Studioなどで使えるmoc3を書き出せるエディター。[GPL-3.0ライセンス](https://github.com/Yoru-KenomoVT/ayatsuri_2d/blob/main/LICENSE)のオープンソースで無料、Windows・macOS・Linuxに対応し、現在はベータ版です。**サイト：英語。**
 - [Krita](https://krita.org/ja/features/) — モデル用原画や配信用グラフィックのための、レイヤー分けしたイラストを描くツール。レイヤー管理とPSDの読み込み・保存に対応し、他の制作ツールへ画像を受け渡せます。**サイト：英語・日本語。**
 - [VRM Add-on for Blender](https://github.com/saturday06/VRM-Addon-for-Blender) — BlenderでVRMアバターを読み込み・編集・書き出しし、HumanoidやMToonの設定を行えるアドオン。使用するBlenderのバージョンに合った導入手順を参照してください。**リポジトリ：英語・日本語。**
 
