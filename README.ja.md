@@ -44,11 +44,14 @@ VTuber活動に役立つツール、チュートリアル、検索サービス�
 - [OBS Studio](https://obsproject.com/) — 映像、音声、オーバーレイをシーンに組み合わせ、ライブ配信や録画を行うソフトウェア。**サイト：英語・日本語ほか。**
 - [わんコメ（OneComme）](https://onecomme.com/) — 複数の配信サイトのコメントをまとめて取得し、読み上げ、コメント表示、参加型配信の順番管理を行えるアプリ。[公式ドキュメント](https://onecomme.com/docs/about/)と[利用規約](https://onecomme.com/terms/)を参照してください。無料版は原則クレジット表記が必要で、例外もあります。一部機能・テンプレートは有料です。**リンク先サイト・ドキュメント：日本語。**
 - [VNyan](https://suvidriel.itch.io/vnyan) — VRM、VRM 1.0、VSFAvatarモデルを使えるWindows向けVTuberアプリ。ノードグラフで視聴者とのインタラクションを組み、OBSのイベントとも連携できます。**製品ページ：英語。**
+- [VDO.Ninja](https://vdo.ninja/) — ブラウザーのリンクを使って、遠隔ゲストの映像・音声・画面共有をOBS Studioへ取り込み、コラボ配信や遠隔制作に利用できます。ルームの設定やOBS連携は[公式ドキュメント](https://docs.vdo.ninja/)を参照してください。**サイト・ドキュメント：英語。**
+- [Streamer.bot](https://streamer.bot/) — チャットや配信プラットフォームのイベントをきっかけに、OBSのシーン・ソース制御などの配信操作を自動化するツール。Windows向けで、[導入ドキュメント](https://docs.streamer.bot/get-started/installation)ではmacOS・Linuxでの利用は実験的かつ公式サポート対象外とされています。**サイト・ドキュメント：英語。**
 
 ## 学習リソース
 
 - [Live2D Cubism チュートリアル](https://docs.live2d.com/cubism-editor-tutorials/top/) — イラストの準備から表情、体の動き、アニメーションまで、モデル制作の流れを学べる公式教材。**ドキュメント：英語・日本語。**
 - [VRMドキュメント](https://vrm.dev/en/) — VRM形式と関連ツール、形式のバージョンによる違い、モデルの利用許諾について学べる公式資料。**ドキュメント：英語・日本語。**
+- [OBS Studio Quick Start Guide](https://obsproject.com/kb/quick-start-guide) — 自動構成、シーンへのソース追加、音声設定、本番配信前のテスト録画まで、初回配信の準備を学べる公式ガイド。**ガイド：英語。**
 
 ## 制作依頼・素材・利用条件
 
