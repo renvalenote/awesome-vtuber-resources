@@ -44,11 +44,14 @@ Match your model format and tracking hardware to the application's requirements 
 - [OBS Studio](https://obsproject.com/) — Combine video, audio, and overlays into scenes for live streaming or recording. **Website: EN / JA and other languages.**
 - [OneComme (わんコメ)](https://onecomme.com/) — Collect chat from multiple streaming platforms, read comments aloud, display comment overlays, and manage viewer participation queues. See the [official documentation](https://onecomme.com/docs/about/) and [terms](https://onecomme.com/terms/): free-version use generally requires attribution, with exceptions; some features and templates are paid. **Linked website and documentation: JA.**
 - [VNyan](https://suvidriel.itch.io/vnyan) — Use VRM, VRM 1.0, and VSFAvatar models in a Windows VTubing app, with a node-graph interface for viewer interactions and OBS event integration. **Product page: EN.**
+- [VDO.Ninja](https://vdo.ninja/) — Bring remote guests' video, audio, and screen shares into OBS Studio through browser-based links, for collaboration streams and remote production. See the [official documentation](https://docs.vdo.ninja/) for room setup and OBS integration. **Website and documentation: EN.**
+- [Streamer.bot](https://streamer.bot/) — Automate stream actions from chat and platform events, including OBS scene and source control. The app targets Windows; the [installation documentation](https://docs.streamer.bot/get-started/installation) labels macOS and Linux use experimental and not officially supported. **Website and documentation: EN.**
 
 ## Learning resources
 
 - [Live2D Cubism Tutorials](https://docs.live2d.com/en/cubism-editor-tutorials/top/) — Follow the official model-making workflow, from preparing illustrations to expressions, body movement, and animation. **Documentation: EN / JA.**
 - [VRM Documentation](https://vrm.dev/en/) — Learn the VRM avatar format, its ecosystem, and the distinctions between format versions and model usage permissions. **Documentation: EN / JA.**
+- [OBS Studio Quick Start Guide](https://obsproject.com/kb/quick-start-guide) — Follow the official first-stream workflow: automatic configuration, scene sources, audio setup, and a test recording before going live. **Guide: EN.**
 
 ## Commissions, assets, and usage rights
 
