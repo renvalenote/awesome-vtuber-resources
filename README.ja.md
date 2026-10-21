@@ -47,6 +47,10 @@ VTuber活動に役立つツール、チュートリアル、検索サービス�
 - [VDO.Ninja](https://vdo.ninja/) — ブラウザーのリンクを使って、遠隔ゲストの映像・音声・画面共有をOBS Studioへ取り込み、コラボ配信や遠隔制作に利用できます。ルームの設定やOBS連携は[公式ドキュメント](https://docs.vdo.ninja/)を参照してください。**サイト・ドキュメント：英語。**
 - [Streamer.bot](https://streamer.bot/) — チャットや配信プラットフォームのイベントをきっかけに、OBSのシーン・ソース制御などの配信操作を自動化するツール。Windows向けで、[導入ドキュメント](https://docs.streamer.bot/get-started/installation)ではmacOS・Linuxでの利用は実験的かつ公式サポート対象外とされています。**サイト・ドキュメント：英語。**
 
+- [Audacity](https://www.audacityteam.org/) — 動画などの収録コンテンツ向けに音声を録音・編集し、制作工程で使う音声ファイルを書き出せるツール。Windows・macOS・Linux向けの無料・オープンソースソフトウェアです。**リンク先サイト：英語。**
+- [Shotcut](https://www.shotcut.org/features/) — 配信の録画をタイムラインでトリミングし、音声のミックスや字幕の編集・書き出しを行える動画編集ソフト。Windows・macOS・Linux向けの無料・オープンソースソフトウェアです。**リンク先サイト：英語。**
+- [OBS Spout2 Plugin](https://github.com/Off-World-Live/obs-spout2-plugin) — Spout2対応アプリの映像テクスチャをOBS Studioへ取り込み、OBSの出力を対応アプリへ送れるプラグイン。Off World Liveによる64ビットWindows向けのツールです。OBSのバージョンとの互換性はリリースノートを確認してください。**リポジトリ：英語。**
+
 ## 学習リソース
 
 - [Live2D Cubism チュートリアル](https://docs.live2d.com/cubism-editor-tutorials/top/) — イラストの準備から表情、体の動き、アニメーションまで、モデル制作の流れを学べる公式教材。**ドキュメント：英語・日本語。**
