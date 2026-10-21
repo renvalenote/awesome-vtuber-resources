@@ -29,7 +29,7 @@ VTuber活動に役立つツール、チュートリアル、検索サービス�
 - [Live2D Cubism](https://www.live2d.com/) — イラストをもとに2Dモデルを制作し、動きを付けるためのソフトウェア。イラストレーターやLive2Dモデラーの制作の入口に。**サイト：英語・日本語。**
 - [VRoid Studio](https://vroid.com/studio) — 人型の3Dキャラクターを制作し、対応アプリで使えるVRMモデルとして書き出せるツール。**サイト：英語・日本語。**
 - [Inochi Creator](https://github.com/Inochi2D/inochi-creator) — レイヤー分けした2Dイラストに動きを付け、VTuber活動などのリアルタイム用途に使うInochi2D形式のモデルを制作するエディター。ソースコードは[BSD-2-Clauseライセンス](https://github.com/Inochi2D/inochi-creator/blob/v0_8/LICENSE)で公開されていますが、ブランド素材には別の制限があることがリポジトリに明記されています。**リポジトリ：英語。**
-- [Krita](https://krita.org/ja/features/) — モデル用原画や配信用グラフィックのための、レイヤー分けしたイラストを描くツール。レイヤー管理とPSDの読み込み・保存に対応し、他の制作ツールへ画像を受け渡せます。**サイト：英語・日本語。**
+- [Krita](https://krita.org/ja/features/) — 2Dモデル制作向けにパーツを分けたレイヤー付き原画を作成し、PSDファイルを書き出すための描画ツール。[PSD形式の制限](https://docs.krita.org/en/general_concepts/file_formats/file_psd.html)を確認し、使用するモデリングツールで読み込みをテストしてください。KritaはLive2Dの[読み込み確認済み描画アプリ](https://docs.live2d.com/en/cubism-editor-manual/precautions-for-psd-data/)には含まれていません。**サイト：英語・日本語。リンク先の互換性資料：英語。**
 - [VRM Add-on for Blender](https://github.com/saturday06/VRM-Addon-for-Blender) — BlenderでVRMアバターを読み込み・編集・書き出しし、HumanoidやMToonの設定を行えるアドオン。使用するBlenderのバージョンに合った導入手順を参照してください。**リポジトリ：英語・日本語。**
 
 ## トラッキングと配信
@@ -37,24 +37,22 @@ VTuber活動に役立つツール、チュートリアル、検索サービス�
 導入前に、モデルの形式と使用するトラッキング機器がアプリの要件に合っているか確認してください。
 
 - [VTube Studio](https://denchisoft.com/) — フェイストラッキングでLive2Dモデルを動かし、表情や小物、シーン内の動作を制御するアプリ。[公式ドキュメント・APIリポジトリ](https://github.com/DenchiSoft/VTubeStudio)はプラグイン開発にも利用できますが、アプリ本体のソースコードではありません。**サイト：英語。**
-- [VSeeFace](https://www.vseeface.icu/) — 顔や手のトラッキングでVRMアバターを動かすアプリ。VMC Protocolを使ったトラッキングデータの送受信にも対応。**サイト：英語。**
+- [VSeeFace](https://www.vseeface.icu/) — 64ビットWindowsでフェイストラッキングによりVRM 0アバターを動かし、VMC経由でトラッキングデータを送受信するアプリ。VRM 1.0は非対応で、追加の手のトラッキングにはLeap Motion機器が必要です。**サイト：英語。**
 - [Warudo](https://www.warudo.app/) — アバター、背景、小物、インタラクションを組み合わせて3D VTuberの配信シーンを構築するアプリ。初期設定と対応トラッキング方式は[公式ハンドブック](https://docs.warudo.app/jp/docs)を参照してください。**ハンドブック：英語・日本語。**
 - [veadotube mini](https://veado.tube/) — マイク入力に反応する画像でPNGTuberアバターを作り、まばたきや表情の切り替えを設定できるアプリ。[公式の使い方ガイド](https://veado.tube/docs/usage/mini/)と[OBSへの取り込みガイド](https://veado.tube/docs/usage/obs/)も参照してください。**サイト・ドキュメント：英語。**
 - [nizima LIVE](https://nizimalive.com/) — Webカメラや連携するiPhone用トラッカーでLive2Dモデルを動かす、Live2D社のトラッキングアプリ。パラメータ調整やコラボ機能も備えています。マーケットプレイスのnizimaとは別のサービスです。**サイト：英語・日本語。**
-- [OBS Studio](https://obsproject.com/) — 映像、音声、オーバーレイをシーンに組み合わせ、ライブ配信や録画を行うソフトウェア。**サイト：英語・日本語ほか。**
+- [OBS Studio](https://obsproject.com/) — アバターアプリの映像とゲーム画面、音声、オーバーレイを組み合わせ、ライブ配信や録画を行うソフトウェア。[VTube Studioのガイド](https://github.com/DenchiSoft/VTubeStudio/wiki/Recording-Streaming-with-OBS)など、使用するアバターアプリの取り込み手順を参照してください。**サイト：英語・日本語ほか。リンク先ガイド：英語。**
 - [わんコメ（OneComme）](https://onecomme.com/) — 複数の配信サイトのコメントをまとめて取得し、読み上げ、コメント表示、参加型配信の順番管理を行えるアプリ。[公式ドキュメント](https://onecomme.com/docs/about/)と[利用規約](https://onecomme.com/terms/)を参照してください。無料版は原則クレジット表記が必要で、例外もあります。一部機能・テンプレートは有料です。**リンク先サイト・ドキュメント：日本語。**
 - [VNyan](https://suvidriel.itch.io/vnyan) — VRM、VRM 1.0、VSFAvatarモデルを使えるWindows向けVTuberアプリ。ノードグラフで視聴者とのインタラクションを組み、OBSのイベントとも連携できます。**製品ページ：英語。**
-- [VDO.Ninja](https://vdo.ninja/) — ブラウザーのリンクを使って、遠隔ゲストの映像・音声・画面共有をOBS Studioへ取り込み、コラボ配信や遠隔制作に利用できます。ルームの設定やOBS連携は[公式ドキュメント](https://docs.vdo.ninja/)を参照してください。**サイト・ドキュメント：英語。**
-- [Streamer.bot](https://streamer.bot/) — チャットや配信プラットフォームのイベントをきっかけに、OBSのシーン・ソース制御などの配信操作を自動化するツール。Windows向けで、[導入ドキュメント](https://docs.streamer.bot/get-started/installation)ではmacOS・Linuxでの利用は実験的かつ公式サポート対象外とされています。**サイト・ドキュメント：英語。**
+- [VDO.Ninja](https://vdo.ninja/) — 遠隔のコラボ相手の映像と音声をOBSへ取り込むサービス。VTuberのアバター映像には、同プロジェクトの追加Windowsアプリ[Game Capture](https://github.com/steveseguin/game-capture/blob/main/docs/windows-guide.md)でVTube StudioやVSeeFaceなどのSpout2出力をVDO.Ninja経由で送れます。アルファチャンネルによる透過表示には通常のブラウザーソースではなく、VDO.Ninja OBSプラグインの実験的なネイティブ受信機能が必要です。**サイト・ドキュメント：英語。**
+- [Streamer.bot](https://streamer.bot/) — チャットや配信プラットフォームのイベントから、アバターやシーンの操作を実行するツール。[VTube Studio連携](https://docs.streamer.bot/guide/integrations/vtube-studio)でモデル、表情、ホットキーを操作し、OBSの制御とも組み合わせられます。Windows向けで、[macOS・Linuxでの導入](https://docs.streamer.bot/get-started/installation)は実験的です。**サイト・ドキュメント：英語。**
 
-- [Audacity](https://www.audacityteam.org/) — 動画などの収録コンテンツ向けに音声を録音・編集し、制作工程で使う音声ファイルを書き出せるツール。Windows・macOS・Linux向けの無料・オープンソースソフトウェアです。**リンク先サイト：英語。**
-- [Shotcut](https://www.shotcut.org/features/) — 配信の録画をタイムラインでトリミングし、音声のミックスや字幕の編集・書き出しを行える動画編集ソフト。Windows・macOS・Linux向けの無料・オープンソースソフトウェアです。**リンク先サイト：英語。**
-- [OBS Spout2 Plugin](https://github.com/Off-World-Live/obs-spout2-plugin) — Spout2対応アプリの映像テクスチャをOBS Studioへ取り込み、OBSの出力を対応アプリへ送れるプラグイン。Off World Liveによる64ビットWindows向けのツールです。OBSのバージョンとの互換性はリリースノートを確認してください。**リポジトリ：英語。**
+- [OBS Spout2 Plugin](https://github.com/Off-World-Live/obs-spout2-plugin) — VTube StudioやVSeeFaceの設定画面を映さず、透過したアバター映像をOBSへ取り込む64ビットWindows向けプラグイン。使用するOBSのバージョンに対応したリリースが必要です。アプリごとの設定は[VTube Studioの取り込みガイド](https://github.com/DenchiSoft/VTubeStudio/wiki/Recording-Streaming-with-OBS)または[VSeeFaceのガイド](https://www.vseeface.icu/spout)を参照してください。**リポジトリ・ガイド：英語。**
 
 ## 学習リソース
 
 - [Live2D Cubism チュートリアル](https://docs.live2d.com/cubism-editor-tutorials/top/) — イラストの準備から表情、体の動き、アニメーションまで、モデル制作の流れを学べる公式教材。**ドキュメント：英語・日本語。**
-- [VRMドキュメント](https://vrm.dev/en/) — VRM形式と関連ツール、形式のバージョンによる違い、モデルの利用許諾について学べる公式資料。**ドキュメント：英語・日本語。**
+- [VRMドキュメント](https://vrm.dev/en/) — VRM形式と関連ツール、形式のバージョンによる違い、モデルの利用許諾について学べる公式資料。**ドキュメント：英語・日本語。英語版のURL配下にも未翻訳の日本語ページがあります。**
 - [OBS Studio Quick Start Guide](https://obsproject.com/kb/quick-start-guide) — 自動構成、シーンへのソース追加、音声設定、本番配信前のテスト録画まで、初回配信の準備を学べる公式ガイド。**ガイド：英語。**
 
 ## 制作依頼・素材・利用条件
@@ -74,7 +72,7 @@ VTuber活動に役立つツール、チュートリアル、検索サービス�
 
 - [Holodex](https://holodex.net/) — VTuberの配信や動画を探せるサービス。[公式フロントエンドリポジトリ](https://github.com/HolodexNet/Holodex)でプロジェクト情報とソースコードを確認できます。**リポジトリ：英語。**
 - [ホロライブ公式タレントプロフィール](https://hololive.hololivepro.com/talents/) — 公式プロフィールと、掲載されているイラストレーターのクレジットを確認できるページ。たとえば[一伊那尓栖のプロフィール](https://hololive.hololivepro.com/en/talents/ninomae-inanis/)にはイラストレーターが記載されていますが、制作担当者全員を網羅した一覧ではありません。**サイト：英語・日本語。**
-- [VTuber図鑑](https://vtuberzukan.com/) — VTuber、クリエイター、会社・事務所・団体の項目を備えた、日本語中心のディレクトリ。**サイト：主に日本語。関係性の開示：本リストの管理者が手がけるプロジェクトです。**
+- [VTuber図鑑](https://vtuberzukan.com/) — VTuber、クリエイター、会社・事務所・団体の項目を備えたディレクトリ。**サイト：日本語・英語・中国語。掲載内容は言語によって異なります。関係性の開示：本リストの管理者が手がけるプロジェクトです。**
 
 ## 開発者向けリソース
 
