@@ -47,6 +47,10 @@ Match your model format and tracking hardware to the application's requirements 
 - [VDO.Ninja](https://vdo.ninja/) — Bring remote guests' video, audio, and screen shares into OBS Studio through browser-based links, for collaboration streams and remote production. See the [official documentation](https://docs.vdo.ninja/) for room setup and OBS integration. **Website and documentation: EN.**
 - [Streamer.bot](https://streamer.bot/) — Automate stream actions from chat and platform events, including OBS scene and source control. The app targets Windows; the [installation documentation](https://docs.streamer.bot/get-started/installation) labels macOS and Linux use experimental and not officially supported. **Website and documentation: EN.**
 
+- [Audacity](https://www.audacityteam.org/) — Record and edit voice audio for videos and other recorded content, then export audio files for your production workflow. Free, open-source software for Windows, macOS, and Linux. **Linked website: EN.**
+- [Shotcut](https://www.shotcut.org/features/) — Turn stream recordings into edited videos with timeline trimming, audio mixing, and subtitle editing and export. Free, open-source video editor for Windows, macOS, and Linux. **Linked website: EN.**
+- [OBS Spout2 Plugin](https://github.com/Off-World-Live/obs-spout2-plugin) — Import video textures from Spout2-compatible applications into OBS Studio and send OBS output back to compatible applications. Off World Live's plugin targets 64-bit Windows; check the release notes for OBS version compatibility. **Repository: EN.**
+
 ## Learning resources
 
 - [Live2D Cubism Tutorials](https://docs.live2d.com/en/cubism-editor-tutorials/top/) — Follow the official model-making workflow, from preparing illustrations to expressions, body movement, and animation. **Documentation: EN / JA.**
