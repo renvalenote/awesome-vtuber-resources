@@ -49,6 +49,9 @@ Match your model format and tracking hardware to the application's requirements 
 
 - [OBS Spout2 Plugin](https://github.com/Off-World-Live/obs-spout2-plugin) — Capture transparent avatar video from VTube Studio or VSeeFace in OBS without capturing the app's settings UI. This 64-bit Windows plugin requires a release compatible with your OBS version. Follow the [VTube Studio capture guide](https://github.com/DenchiSoft/VTubeStudio/wiki/Recording-Streaming-with-OBS) or [VSeeFace guide](https://www.vseeface.icu/spout) for app-specific settings. **Repository and guides: EN.**
 
+- [Inochi Session](https://github.com/Inochi2D/inochi-session) — Animate and stream Inochi2D puppets made in Inochi Creator. The [official download page](https://inochi2d.com/download/) offers free Windows, macOS, and Linux builds; the repository warns that it is still under heavy development and not production-ready. **Repository and download page: EN.**
+- [VBridger](https://store.steampowered.com/app/1898830/VBridger/?l=english) — Paid Windows app for tuning face-tracking inputs for VTube Studio or compatible VRM setups. Advanced expressions require appropriate model rigging; creating custom outputs requires the Editor DLC. VMC output carries facial data, not head/eye rotation or body motion. See the [official setup guide](https://github.com/PiPuProductions/VBridger-Documentation/wiki/1.-Getting-Started). **Linked product page and guide: EN.**
+
 ## Learning resources
 
 - [Live2D Cubism Tutorials](https://docs.live2d.com/en/cubism-editor-tutorials/top/) — Follow the official model-making workflow, from preparing illustrations to expressions, body movement, and animation. **Documentation: EN / JA.**
@@ -65,6 +68,8 @@ A listing is a place to start your own checks. Confirm commercial use, attributi
 - [Live2D Sample Models](https://www.live2d.com/en/learn/sample/) — Study official sample models and their construction. Read the applicable sample-data terms before using them in your own work. **Website: EN / JA.**
 - [hololive Production Derivative Works Guidelines](https://hololivepro.com/en/terms/) — Consult the rights holder's rules when making relevant hololive fan works. These guidelines do not grant permission for unrelated creators' work. **Guidelines: EN / JA.**
 - [BOOTH](https://booth.pm/en) — Browse creator shops for 3D models, textures, and stream assets. Check each item's format, supported applications, and creator-defined usage terms before buying or using it. **Website: EN / JA; listing languages vary.**
+
+- [VN3 License](https://www.vn3.org/) — Free, customizable terms-of-use templates and a [generator](https://www.vn3.org/generator) for distributing avatar and other 3D-model assets. Designed for Japanese law and Japan-based right-holders; permissions depend on each asset's selected terms. **Website: JA; generated terms: Japanese authoritative text, English reference translation, and Korean/Chinese simplified translations.**
 
 ## Discovery and public credits
 
