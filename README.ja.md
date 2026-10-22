@@ -49,6 +49,9 @@ VTuber活動に役立つツール、チュートリアル、検索サービス�
 
 - [OBS Spout2 Plugin](https://github.com/Off-World-Live/obs-spout2-plugin) — VTube StudioやVSeeFaceの設定画面を映さず、透過したアバター映像をOBSへ取り込む64ビットWindows向けプラグイン。使用するOBSのバージョンに対応したリリースが必要です。アプリごとの設定は[VTube Studioの取り込みガイド](https://github.com/DenchiSoft/VTubeStudio/wiki/Recording-Streaming-with-OBS)または[VSeeFaceのガイド](https://www.vseeface.icu/spout)を参照してください。**リポジトリ・ガイド：英語。**
 
+- [Inochi Session](https://github.com/Inochi2D/inochi-session) — Inochi Creatorで制作したInochi2Dモデルを動かし、配信するためのアプリ。[公式ダウンロードページ](https://inochi2d.com/download/)でWindows・macOS・Linux向けの無料版を提供していますが、リポジトリには開発途上で本番利用向けではないと明記されています。**リポジトリ・ダウンロードページ：英語。**
+- [VBridger](https://store.steampowered.com/app/1898830/VBridger/?l=english) — VTube Studioや対応するVRM環境へ送るフェイストラッキング入力を調整する、Windows向け有料アプリ。高度な表情制御には対応したモデルのリギングが必要で、独自の出力の作成にはEditor DLCが必要です。VMC出力は顔のデータのみで、頭・眼球の回転や身体の動きは送れません。[公式導入ガイド](https://github.com/PiPuProductions/VBridger-Documentation/wiki/1.-Getting-Started)を参照してください。**リンク先製品ページ・ガイド：英語。**
+
 ## 学習リソース
 
 - [Live2D Cubism チュートリアル](https://docs.live2d.com/cubism-editor-tutorials/top/) — イラストの準備から表情、体の動き、アニメーションまで、モデル制作の流れを学べる公式教材。**ドキュメント：英語・日本語。**
@@ -65,6 +68,8 @@ VTuber活動に役立つツール、チュートリアル、検索サービス�
 - [Live2D サンプルモデル](https://www.live2d.com/learn/sample/) — 公式サンプルモデルの構造を学ぶための資料。自身の制作物に使用する前に、対象データの利用規約を確認してください。**サイト：英語・日本語。**
 - [ホロライブプロダクション 二次創作ガイドライン](https://hololivepro.com/terms/) — ホロライブ関連の二次創作を行う際に確認する権利者の公式ガイドライン。他のクリエイターの作品への利用許諾を与えるものではありません。**ガイドライン：英語・日本語。**
 - [BOOTH](https://booth.pm/ja) — クリエイターのショップから3Dモデル、テクスチャ、配信素材を探せるマーケット。購入・使用前に、各商品の形式、対応アプリ、制作者が定める利用条件を確認してください。**サイト：英語・日本語。商品説明の言語は出品ごとに異なります。**
+
+- [VN3ライセンス](https://www.vn3.org/) — アバターなどの3Dモデルを配布するための、無償で条件を設定できる利用規約テンプレートと[ジェネレータ](https://www.vn3.org/generator)。日本法と日本国内の権利者を想定しており、利用許諾は各素材で選択された条件によって異なります。**サイト：日本語。生成される規約：日本語正文、英語参考訳、韓国語・中国語の簡易翻訳。**
 
 ## VTuber検索と公開クレジット
 
