@@ -52,11 +52,16 @@ VTuber活動に役立つツール、チュートリアル、検索サービス�
 - [Inochi Session](https://github.com/Inochi2D/inochi-session) — Inochi Creatorで制作したInochi2Dモデルを動かし、配信するためのアプリ。[公式ダウンロードページ](https://inochi2d.com/download/)でWindows・macOS・Linux向けの無料版を提供していますが、リポジトリには開発途上で本番利用向けではないと明記されています。**リポジトリ・ダウンロードページ：英語。**
 - [VBridger](https://store.steampowered.com/app/1898830/VBridger/?l=english) — VTube Studioや対応するVRM環境へ送るフェイストラッキング入力を調整する、Windows向け有料アプリ。高度な表情制御には対応したモデルのリギングが必要で、独自の出力の作成にはEditor DLCが必要です。VMC出力は顔のデータのみで、頭・眼球の回転や身体の動きは送れません。[公式導入ガイド](https://github.com/PiPuProductions/VBridger-Documentation/wiki/1.-Getting-Started)を参照してください。**リンク先製品ページ・ガイド：英語。**
 
+- [SlimeVR](https://slimevr.dev/) — IMUを用いた3D VTuber向けのフルボディトラッキングシステム。サーバーソフトウェアはオープンソースで、[互換性ガイド](https://docs.slimevr.dev/misc/compatibility.html#vtubing-and-motion-capture)にVMC経由でのVNyan・Warudo対応が記載されています。完成品を購入するか自作するなどして、対応トラッカーを別途用意する必要があります。**サイト・ガイド：英語。**
+- [VRM Posing Desktop](https://store.steampowered.com/app/1895630/VRM_Posing_Desktop/) — アバターのサムネイル、透過画像、短いMP4動画を制作するための、ACHIOKIによる有料ポージングツール。VRM 1.0、VRM Animation（.vrma）、FBX・GLB形式の小物に対応しています。モデルのリギング用エディターではなく、ポーズ付けとコンテンツ制作のためのツールです。**リンク先製品ページ：英語。**
+
 ## 学習リソース
 
 - [Live2D Cubism チュートリアル](https://docs.live2d.com/cubism-editor-tutorials/top/) — イラストの準備から表情、体の動き、アニメーションまで、モデル制作の流れを学べる公式教材。**ドキュメント：英語・日本語。**
 - [VRMドキュメント](https://vrm.dev/en/) — VRM形式と関連ツール、形式のバージョンによる違い、モデルの利用許諾について学べる公式資料。**ドキュメント：英語・日本語。英語版のURL配下にも未翻訳の日本語ページがあります。**
 - [OBS Studio Quick Start Guide](https://obsproject.com/kb/quick-start-guide) — 自動構成、シーンへのソース追加、音声設定、本番配信前のテスト録画まで、初回配信の準備を学べる公式ガイド。**ガイド：英語。**
+
+- [VRoid Studio 公式チュートリアル・ヘルプ](https://vroid.pixiv.help/hc/ja/categories/900000339606) — ピクシブによるVRoid Studio正式版の入門ガイドと、キャラクター作成、髪型のカスタマイズ、衣装テクスチャの読み込み、VRM出力を解説する画像付きガイド。出力前に、利用先アプリが対応するVRMのバージョンを確認してください。**ガイド：英語・日本語。**
 
 ## 制作依頼・素材・利用条件
 
