@@ -52,11 +52,16 @@ Match your model format and tracking hardware to the application's requirements 
 - [Inochi Session](https://github.com/Inochi2D/inochi-session) — Animate and stream Inochi2D puppets made in Inochi Creator. The [official download page](https://inochi2d.com/download/) offers free Windows, macOS, and Linux builds; the repository warns that it is still under heavy development and not production-ready. **Repository and download page: EN.**
 - [VBridger](https://store.steampowered.com/app/1898830/VBridger/?l=english) — Paid Windows app for tuning face-tracking inputs for VTube Studio or compatible VRM setups. Advanced expressions require appropriate model rigging; creating custom outputs requires the Editor DLC. VMC output carries facial data, not head/eye rotation or body motion. See the [official setup guide](https://github.com/PiPuProductions/VBridger-Documentation/wiki/1.-Getting-Started). **Linked product page and guide: EN.**
 
+- [SlimeVR](https://slimevr.dev/) — IMU-based full-body tracking for 3D VTubing, with open-source server software. Its [compatibility guide](https://docs.slimevr.dev/misc/compatibility.html#vtubing-and-motion-capture) lists VNyan and Warudo support via VMC. Requires separately obtained compatible trackers, either prebuilt or DIY. **Website and guide: EN.**
+- [VRM Posing Desktop](https://store.steampowered.com/app/1895630/VRM_Posing_Desktop/) — ACHIOKI's paid posing tool for preparing avatar thumbnails, transparent images, and short MP4 clips. Supports VRM 1.0, VRM Animation (.vrma), and FBX/GLB props. This is a posing and content-production tool, not a model-rigging editor. **Linked product page: EN.**
+
 ## Learning resources
 
 - [Live2D Cubism Tutorials](https://docs.live2d.com/en/cubism-editor-tutorials/top/) — Follow the official model-making workflow, from preparing illustrations to expressions, body movement, and animation. **Documentation: EN / JA.**
 - [VRM Documentation](https://vrm.dev/en/) — Learn the VRM avatar format, its ecosystem, and the distinctions between format versions and model usage permissions. **Documentation: EN / JA; some English-path pages remain Japanese.**
 - [OBS Studio Quick Start Guide](https://obsproject.com/kb/quick-start-guide) — Follow the official first-stream workflow: automatic configuration, scene sources, audio setup, and a test recording before going live. **Guide: EN.**
+
+- [VRoid Studio Official Tutorials & Help](https://vroid.pixiv.help/hc/en-us/categories/900000339606) — Pixiv's beginner walkthrough and illustrated guides for the stable version of VRoid Studio: create characters, customize hair, import outfit textures, and export VRM models. Check the destination app's VRM-version support before exporting. **Guides: EN / JA.**
 
 ## Commissions, assets, and usage rights
 
