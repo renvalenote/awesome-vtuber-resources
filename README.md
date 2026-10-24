@@ -32,6 +32,8 @@ Language notes describe the linked website or documentation, not a guarantee of 
 - [Krita](https://krita.org/en/features/) — Prepare separated, layered artwork for 2D model production and export PSD files. Check the [PSD format limits](https://docs.krita.org/en/general_concepts/file_formats/file_psd.html) and test imports in your rigging tool; Krita is not among Live2D's [confirmed-compatible drawing applications](https://docs.live2d.com/en/cubism-editor-manual/precautions-for-psd-data/). **Website: EN / JA; linked compatibility documentation: EN.**
 - [VRM Add-on for Blender](https://github.com/saturday06/VRM-Addon-for-Blender) — Import, edit, and export VRM avatars in Blender, including humanoid and MToon settings. Follow the installation instructions for your Blender version. **Repository: EN / JA.**
 
+- [Ucupaint](https://extensions.blender.org/add-ons/ucupaint/) — Paint and organize avatar texture layers and masks in Blender, then bake channel images for export. The Blender Extensions build requires Blender 4.2 or newer and uses GPL-3.0-or-later; choose a compatible release for older Blender versions. **Extension page and documentation: EN.**
+
 ## Tracking and streaming
 
 Match your model format and tracking hardware to the application's requirements before building your setup.
@@ -54,6 +56,8 @@ Match your model format and tracking hardware to the application's requirements 
 
 - [SlimeVR](https://slimevr.dev/) — IMU-based full-body tracking for 3D VTubing, with open-source server software. Its [compatibility guide](https://docs.slimevr.dev/misc/compatibility.html#vtubing-and-motion-capture) lists VNyan and Warudo support via VMC. Requires separately obtained compatible trackers, either prebuilt or DIY. **Website and guide: EN.**
 - [VRM Posing Desktop](https://store.steampowered.com/app/1895630/VRM_Posing_Desktop/) — ACHIOKI's paid posing tool for preparing avatar thumbnails, transparent images, and short MP4 clips. Supports VRM 1.0, VRM Animation (.vrma), and FBX/GLB props. This is a posing and content-production tool, not a model-rigging editor. **Linked product page: EN.**
+
+- [VMagicMirror](https://malaybaku.github.io/VMagicMirror/en/) — Move a VRM avatar with keyboard, mouse, or controller input for work and game streams on 64-bit Windows, without requiring VR hardware. Microphone lip sync and optional webcam head tracking are also available. The [free Standard edition](https://malaybaku.github.io/VMagicMirror/en/download/) has restrictions on some hand-tracking, VMC, and Buddy features; a paid Full edition is available. **Website and documentation: EN / JA.**
 
 ## Learning resources
 
@@ -89,6 +93,8 @@ Use directories to find leads, then check the original profile, announcement, or
 - [UniVRM](https://github.com/vrm-c/UniVRM) — Import and export VRM avatars in Unity using the VRM implementation maintained by the VRM Consortium's GitHub organization. **Documentation: EN / JA.**
 - [three-vrm](https://github.com/pixiv/three-vrm) — Load and work with VRM avatars in Three.js-based web applications. **Repository: EN.**
 - [VMC Protocol](https://protocol.vmc.info/english.html) — Implement motion and expression data exchange between compatible applications using the published OSC-based protocol. **Specification: EN / JA.**
+
+- [OpenSeeFace](https://github.com/emilianavt/OpenSeeFace) — Build webcam-based avatar tracking integrations using facial landmarks sent over UDP and the included Unity receiver components. This is a tracking library rather than a standalone avatar app. Code and models use BSD-2-Clause; redistributed binary builds also require the included third-party license notices. **Repository and documentation: EN.**
 
 ## Selection and contributions
 
