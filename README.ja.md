@@ -32,6 +32,8 @@ VTuber活動に役立つツール、チュートリアル、検索サービス�
 - [Krita](https://krita.org/ja/features/) — 2Dモデル制作向けにパーツを分けたレイヤー付き原画を作成し、PSDファイルを書き出すための描画ツール。[PSD形式の制限](https://docs.krita.org/en/general_concepts/file_formats/file_psd.html)を確認し、使用するモデリングツールで読み込みをテストしてください。KritaはLive2Dの[読み込み確認済み描画アプリ](https://docs.live2d.com/en/cubism-editor-manual/precautions-for-psd-data/)には含まれていません。**サイト：英語・日本語。リンク先の互換性資料：英語。**
 - [VRM Add-on for Blender](https://github.com/saturday06/VRM-Addon-for-Blender) — BlenderでVRMアバターを読み込み・編集・書き出しし、HumanoidやMToonの設定を行えるアドオン。使用するBlenderのバージョンに合った導入手順を参照してください。**リポジトリ：英語・日本語。**
 
+- [Ucupaint](https://extensions.blender.org/add-ons/ucupaint/) — Blenderでアバターのテクスチャをレイヤーやマスクで描画・管理し、チャンネルごとの画像をベイクして書き出しに使えるアドオン。Blender Extensions版はBlender 4.2以降に対応し、GPL-3.0-or-laterで公開されています。旧版Blenderでは対応するリリースを選んでください。**拡張機能ページ・ドキュメント：英語。**
+
 ## トラッキングと配信
 
 導入前に、モデルの形式と使用するトラッキング機器がアプリの要件に合っているか確認してください。
@@ -54,6 +56,8 @@ VTuber活動に役立つツール、チュートリアル、検索サービス�
 
 - [SlimeVR](https://slimevr.dev/) — IMUを用いた3D VTuber向けのフルボディトラッキングシステム。サーバーソフトウェアはオープンソースで、[互換性ガイド](https://docs.slimevr.dev/misc/compatibility.html#vtubing-and-motion-capture)にVMC経由でのVNyan・Warudo対応が記載されています。完成品を購入するか自作するなどして、対応トラッカーを別途用意する必要があります。**サイト・ガイド：英語。**
 - [VRM Posing Desktop](https://store.steampowered.com/app/1895630/VRM_Posing_Desktop/) — アバターのサムネイル、透過画像、短いMP4動画を制作するための、ACHIOKIによる有料ポージングツール。VRM 1.0、VRM Animation（.vrma）、FBX・GLB形式の小物に対応しています。モデルのリギング用エディターではなく、ポーズ付けとコンテンツ制作のためのツールです。**リンク先製品ページ：英語。**
+
+- [VMagicMirror](https://malaybaku.github.io/VMagicMirror/) — 64ビットWindowsでキーボード、マウス、コントローラーの入力に合わせてVRMアバターを動かし、作業配信やゲーム実況に使えるアプリ。VR機器は不要で、マイクによるリップシンクや、任意のWebカメラによる頭部トラッキングにも対応しています。[無料のStandard Edition](https://malaybaku.github.io/VMagicMirror/download/)では一部のハンドトラッキング、VMC、Buddy機能に制限があり、有料のFull Editionも提供されています。**サイト・ドキュメント：英語・日本語。**
 
 ## 学習リソース
 
@@ -89,6 +93,8 @@ VTuber活動に役立つツール、チュートリアル、検索サービス�
 - [UniVRM](https://github.com/vrm-c/UniVRM) — UnityでVRMアバターを読み込み・書き出しするための実装。VRMコンソーシアムのGitHub Organizationで管理されています。**ドキュメント：英語・日本語。**
 - [three-vrm](https://github.com/pixiv/three-vrm) — Three.jsを使ったWebアプリでVRMアバターを読み込み、扱うためのライブラリ。**リポジトリ：英語。**
 - [VMC Protocol](https://protocol.vmc.info/english.html) — 対応アプリ間でモーションや表情のデータをやり取りするための、OSCを利用した公開プロトコル仕様。**仕様書：英語・日本語。**
+
+- [OpenSeeFace](https://github.com/emilianavt/OpenSeeFace) — Webカメラの顔の特徴点をUDPで送り、付属のUnity受信コンポーネントと組み合わせてアバタートラッキングを実装するためのライブラリ。単体でアバターを動かすアプリではありません。コードとモデルはBSD-2-Clauseで公開されており、バイナリ版を再配布する場合は同梱のサードパーティーライセンス表記も必要です。**リポジトリ・ドキュメント：英語。**
 
 ## 掲載方針と追加・修正の提案
 
