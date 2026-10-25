@@ -59,6 +59,8 @@ Match your model format and tracking hardware to the application's requirements 
 
 - [VMagicMirror](https://malaybaku.github.io/VMagicMirror/en/) — Move a VRM avatar with keyboard, mouse, or controller input for work and game streams on 64-bit Windows, without requiring VR hardware. Microphone lip sync and optional webcam head tracking are also available. The [free Standard edition](https://malaybaku.github.io/VMagicMirror/en/download/) has restrictions on some hand-tracking, VMC, and Buddy features; a paid Full edition is available. **Website and documentation: EN / JA.**
 
+- [iFacialMocap](https://www.ifacialmocap.com/) — Send facial tracking from a Face ID-equipped iPhone to compatible avatar apps. The [VSeeFace setup](https://www.vseeface.icu/) requires an avatar prepared with ARKit blendshapes and a shared network for phone and PC. The [iOS editions](https://www.ifacialmocap.com/download/) include a paid ad-free app and a free ad-supported app. **Website: EN / JA; linked VSeeFace guide: EN.**
+
 ## Learning resources
 
 - [Live2D Cubism Tutorials](https://docs.live2d.com/en/cubism-editor-tutorials/top/) — Follow the official model-making workflow, from preparing illustrations to expressions, body movement, and animation. **Documentation: EN / JA.**
@@ -80,6 +82,8 @@ A listing is a place to start your own checks. Confirm commercial use, attributi
 
 - [VN3 License](https://www.vn3.org/) — Free, customizable terms-of-use templates and a [generator](https://www.vn3.org/generator) for distributing avatar and other 3D-model assets. Designed for Japanese law and Japan-based right-holders; permissions depend on each asset's selected terms. **Website: JA; generated terms: Japanese authoritative text, English reference translation, and Korean/Chinese simplified translations.**
 
+- [OKUMONO](https://sozaino.site/) — Find backgrounds, frames, and other graphics for streams and thumbnails. Its [terms](https://sozaino.site/kiyaku) allow free use in monetized streams and modification without credit, but prohibit asset redistribution, selling or publicly distributing stream-screen templates, asset-dominant merchandise sales, and AI training use. **Website: JA; terms also available in EN, Chinese, and Korean.**
+
 ## Discovery and public credits
 
 Use directories to find leads, then check the original profile, announcement, or portfolio. Distinguish character design, illustration, Live2D rigging, 3D modeling, and outfit-specific work; one credit does not imply all of these roles.
@@ -95,6 +99,8 @@ Use directories to find leads, then check the original profile, announcement, or
 - [VMC Protocol](https://protocol.vmc.info/english.html) — Implement motion and expression data exchange between compatible applications using the published OSC-based protocol. **Specification: EN / JA.**
 
 - [OpenSeeFace](https://github.com/emilianavt/OpenSeeFace) — Build webcam-based avatar tracking integrations using facial landmarks sent over UDP and the included Unity receiver components. This is a tracking library rather than a standalone avatar app. Code and models use BSD-2-Clause; redistributed binary builds also require the included third-party license notices. **Repository and documentation: EN.**
+
+- [pyvts](https://github.com/Genteki/pyvts) — Genteki's MIT-licensed Python library for building VTube Studio plugins, including custom tracking parameters. Follow the [tutorial](https://genteki.github.io/pyvts/toctree2_tutorial.html) for connecting and obtaining authorization in VTube Studio; this is a development library, not a standalone tracking app. **Repository and documentation: EN.**
 
 ## Selection and contributions
 
