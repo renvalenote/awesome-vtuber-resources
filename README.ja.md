@@ -61,6 +61,8 @@ VTuber活動に役立つツール、チュートリアル、検索サービス�
 
 - [iFacialMocap](https://www.ifacialmocap.com/) — Face ID搭載のiPhoneから、対応するアバターアプリへフェイストラッキングを送るアプリ。[VSeeFaceでの設定](https://www.vseeface.icu/)にはARKitブレンドシェイプを用意したアバターと、iPhone・PCを同じネットワークに接続する環境が必要です。[iOS版](https://www.ifacialmocap.com/download/)には広告なしの有料版と広告付きの無料版があります。**サイト：英語・日本語。リンク先VSeeFaceガイド：英語。**
 
+- [StreamElements Alerts & Overlays](https://streamelements.com/features/overlays) — Twitchのフォローやサブスク登録の通知など、配信用アラートとオーバーレイを作成・カスタマイズできます。[公式設定ガイド](https://docs.streamelements.com/selive/guides/overlays-and-alerts)に従ってOBSのブラウザソースとして追加します。オーバーレイのURLは公開しないでください。基本のアラートとオーバーレイは無料です。**サイト・ガイド：英語。**
+
 ## 学習リソース
 
 - [Live2D Cubism チュートリアル](https://docs.live2d.com/cubism-editor-tutorials/top/) — イラストの準備から表情、体の動き、アニメーションまで、モデル制作の流れを学べる公式教材。**ドキュメント：英語・日本語。**
@@ -68,6 +70,8 @@ VTuber活動に役立つツール、チュートリアル、検索サービス�
 - [OBS Studio Quick Start Guide](https://obsproject.com/kb/quick-start-guide) — 自動構成、シーンへのソース追加、音声設定、本番配信前のテスト録画まで、初回配信の準備を学べる公式ガイド。**ガイド：英語。**
 
 - [VRoid Studio 公式チュートリアル・ヘルプ](https://vroid.pixiv.help/hc/ja/categories/900000339606) — ピクシブによるVRoid Studio正式版の入門ガイドと、キャラクター作成、髪型のカスタマイズ、衣装テクスチャの読み込み、VRM出力を解説する画像付きガイド。出力前に、利用先アプリが対応するVRMのバージョンを確認してください。**ガイド：英語・日本語。**
+
+- [OBS コンプレッサー・ダッキングガイド](https://obsproject.com/kb/compressor-filter) — OBS内蔵コンプレッサーでマイクの大きな音を抑え、話している間はゲーム音やBGMを下げる方法を学べる公式ガイド。各設定項目とサイドチェインによるダッキングの初期設定例を解説しています。自身の音声環境に合わせて調整してください。**ガイド：英語。**
 
 ## 制作依頼・素材・利用条件
 
@@ -83,6 +87,8 @@ VTuber活動に役立つツール、チュートリアル、検索サービス�
 - [VN3ライセンス](https://www.vn3.org/) — アバターなどの3Dモデルを配布するための、無償で条件を設定できる利用規約テンプレートと[ジェネレータ](https://www.vn3.org/generator)。日本法と日本国内の権利者を想定しており、利用許諾は各素材で選択された条件によって異なります。**サイト：日本語。生成される規約：日本語正文、英語参考訳、韓国語・中国語の簡易翻訳。**
 
 - [OKUMONO](https://sozaino.site/) — 配信やサムネイル向けの背景、フレームなどを探せる素材サイト。[利用規約](https://sozaino.site/kiyaku)では収益化配信での無料利用や加工がクレジット表記なしで認められていますが、素材の再配布、配信画面テンプレートの販売・不特定多数への配布、素材が主となるグッズの販売、AI学習目的での利用は禁止されています。**サイト：日本語。規約は英語・中国語・韓国語でも掲載。**
+
+- [OpenTracks（旧DOVA-SYNDROME）](https://opentracks.com/) — 雑談・ゲーム配信向けのBGMを探せます。[ライセンス](https://opentracks.com/help/articles/license/)では、制限事項と作曲・制作者の追加条件に従う限り、商用の背景音楽として無料・クレジット表記不要で利用できます。音源ファイルの再配布、音源を流して聴かせることが主目的の配信、利用者によるContent ID登録は禁止されています。**サイト・リンク先の規約：日本語。**
 
 ## VTuber検索と公開クレジット
 
