@@ -61,6 +61,8 @@ Match your model format and tracking hardware to the application's requirements 
 
 - [iFacialMocap](https://www.ifacialmocap.com/) — Send facial tracking from a Face ID-equipped iPhone to compatible avatar apps. The [VSeeFace setup](https://www.vseeface.icu/) requires an avatar prepared with ARKit blendshapes and a shared network for phone and PC. The [iOS editions](https://www.ifacialmocap.com/download/) include a paid ad-free app and a free ad-supported app. **Website: EN / JA; linked VSeeFace guide: EN.**
 
+- [StreamElements Alerts & Overlays](https://streamelements.com/features/overlays) — Create customizable stream alerts and overlays, such as Twitch follower and subscriber notifications. Add them to OBS as a Browser Source using the [official setup guide](https://docs.streamelements.com/selive/guides/overlays-and-alerts); keep the overlay URL private. Core alerts and overlays are free. **Website and guide: EN.**
+
 ## Learning resources
 
 - [Live2D Cubism Tutorials](https://docs.live2d.com/en/cubism-editor-tutorials/top/) — Follow the official model-making workflow, from preparing illustrations to expressions, body movement, and animation. **Documentation: EN / JA.**
@@ -68,6 +70,8 @@ Match your model format and tracking hardware to the application's requirements 
 - [OBS Studio Quick Start Guide](https://obsproject.com/kb/quick-start-guide) — Follow the official first-stream workflow: automatic configuration, scene sources, audio setup, and a test recording before going live. **Guide: EN.**
 
 - [VRoid Studio Official Tutorials & Help](https://vroid.pixiv.help/hc/en-us/categories/900000339606) — Pixiv's beginner walkthrough and illustrated guides for the stable version of VRoid Studio: create characters, customize hair, import outfit textures, and export VRM models. Check the destination app's VRM-version support before exporting. **Guides: EN / JA.**
+
+- [OBS Compressor and Ducking Guide](https://obsproject.com/kb/compressor-filter) — Learn to reduce loud microphone peaks and lower game or background-music volume while speaking, using OBS's built-in compressor. The official guide explains the controls and provides starting settings for sidechain ducking; tune them for your own audio. **Guide: EN.**
 
 ## Commissions, assets, and usage rights
 
@@ -83,6 +87,8 @@ A listing is a place to start your own checks. Confirm commercial use, attributi
 - [VN3 License](https://www.vn3.org/) — Free, customizable terms-of-use templates and a [generator](https://www.vn3.org/generator) for distributing avatar and other 3D-model assets. Designed for Japanese law and Japan-based right-holders; permissions depend on each asset's selected terms. **Website: JA; generated terms: Japanese authoritative text, English reference translation, and Korean/Chinese simplified translations.**
 
 - [OKUMONO](https://sozaino.site/) — Find backgrounds, frames, and other graphics for streams and thumbnails. Its [terms](https://sozaino.site/kiyaku) allow free use in monetized streams and modification without credit, but prohibit asset redistribution, selling or publicly distributing stream-screen templates, asset-dominant merchandise sales, and AI training use. **Website: JA; terms also available in EN, Chinese, and Korean.**
+
+- [OpenTracks (formerly DOVA-SYNDROME)](https://opentracks.com/) — Find background music for chat and game streams. The [license](https://opentracks.com/help/articles/license/) permits free commercial background use without attribution, subject to its restrictions and additional creator conditions. Redistributing audio files, streams primarily replaying the provided music, and user Content ID registration are not permitted. **Website and linked terms: JA.**
 
 ## Discovery and public credits
 
