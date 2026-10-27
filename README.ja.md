@@ -75,6 +75,8 @@ VTuber活動に役立つツール、チュートリアル、検索サービス�
 
 - [OBS 複数音声トラック録画ガイド](https://obsproject.com/kb/multiple-audio-track-recording-guide) — マイク、ゲーム、BGMの音声ソースを別々のトラックに記録し、配信の切り抜き編集時に音量を調整するための公式ガイド。通常の動画プレイヤーでの再生用にトラック1へ全音声をまとめ、OBSの出力設定で必要な録画トラックを有効にします。**ガイド：英語。**
 - [Twitch AutoMod ガイド](https://help.twitch.tv/s/article/how-to-use-automod?language=en_US) — Twitchチャットの保留メッセージ確認と、ブロック・許可する語句の設定を学べます。非公開のブロック語句はモデレーターにも表示されず、個人情報の保護に役立ちます。AutoModはメッセージを確認待ちにする機能で、自動でタイムアウトやBANを行うものではありません。対応言語はモデレーションのカテゴリによって異なります。**リンク先ガイド：英語。**
+- [puppetcam](https://github.com/cesaredavidepace/puppetcam) — フェイストラッキングでWebカメラの映像を2Dの漫画風アバターに変え、仮想カメラとしてビデオ通話や配信で使えるアプリ。MediaPipeを使いCPUで動作し、WindowsとmacOSではOBS仮想カメラ、Linuxではv4l2loopbackを使用します。オープンソース（MIT）。**リポジトリ：英語。**
+
 
 ## 制作依頼・素材・利用条件
 
