@@ -73,6 +73,9 @@ Match your model format and tracking hardware to the application's requirements 
 
 - [OBS Compressor and Ducking Guide](https://obsproject.com/kb/compressor-filter) — Learn to reduce loud microphone peaks and lower game or background-music volume while speaking, using OBS's built-in compressor. The official guide explains the controls and provides starting settings for sidechain ducking; tune them for your own audio. **Guide: EN.**
 
+- [OBS Multiple Audio Track Recording Guide](https://obsproject.com/kb/multiple-audio-track-recording-guide) — Record microphone, game, and background-music sources on separate tracks so their levels can be adjusted when editing stream highlights. Keep a combined mix on track 1 for ordinary video-player playback, and enable the required recording tracks in OBS output settings. **Guide: EN.**
+- [Twitch AutoMod Guide](https://help.twitch.tv/s/article/how-to-use-automod?language=en_US) — Set up held-message review and blocked/permitted terms for Twitch chat. Private blocked terms are hidden from moderators, which can help protect personal information. AutoMod holds messages for review; it does not automatically timeout or ban users. Language coverage varies by moderation category. **Linked guide: EN.**
+
 ## Commissions, assets, and usage rights
 
 A listing is a place to start your own checks. Confirm commercial use, attribution, modification, exclusivity, and redistribution terms with the relevant creator or rights holder. Inclusion here does not endorse every seller or asset on a platform.
@@ -89,6 +92,8 @@ A listing is a place to start your own checks. Confirm commercial use, attributi
 - [OKUMONO](https://sozaino.site/) — Find backgrounds, frames, and other graphics for streams and thumbnails. Its [terms](https://sozaino.site/kiyaku) allow free use in monetized streams and modification without credit, but prohibit asset redistribution, selling or publicly distributing stream-screen templates, asset-dominant merchandise sales, and AI training use. **Website: JA; terms also available in EN, Chinese, and Korean.**
 
 - [OpenTracks (formerly DOVA-SYNDROME)](https://opentracks.com/) — Find background music for chat and game streams. The [license](https://opentracks.com/help/articles/license/) permits free commercial background use without attribution, subject to its restrictions and additional creator conditions. Redistributing audio files, streams primarily replaying the provided music, and user Content ID registration are not permitted. **Website and linked terms: JA.**
+
+- [Sound Effect Lab (効果音ラボ)](https://soundeffect-lab.info/) — Find short sound effects for stream segments and edited videos. The [terms](https://soundeffect-lab.info/agreement/) allow free commercial use and modification without credit, subject to restrictions. Redistribution, including sound collections and asset templates containing the sounds, adult-content use, AI training, and registering music containing these sounds with YouTube Content ID are prohibited. **Website and terms: JA.**
 
 ## Discovery and public credits
 
