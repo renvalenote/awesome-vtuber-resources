@@ -63,6 +63,10 @@ VTuber活動に役立つツール、チュートリアル、検索サービス�
 
 - [StreamElements Alerts & Overlays](https://streamelements.com/features/overlays) — Twitchのフォローやサブスク登録の通知など、配信用アラートとオーバーレイを作成・カスタマイズできます。[公式設定ガイド](https://docs.streamelements.com/selive/guides/overlays-and-alerts)に従ってOBSのブラウザソースとして追加します。オーバーレイのURLは公開しないでください。基本のアラートとオーバーレイは無料です。**サイト・ガイド：英語。**
 
+- [PNGTuber Plus](https://kaiakairos.itch.io/pngtuber-plus) — 個別に動くPNGスプライトを組み合わせ、親子付け、遅れて追従する動き、跳ね・揺れ、発話・まばたきによる表示切り替えを設定してOBSへ取り込めます。Windows・macOS・Linux版があり、[ソースプロジェクト](https://github.com/kaiakairos/PNGTuber-Plus)はUnlicenseで公開されています。作者は[一部環境での性能問題](https://itch.io/t/4479727/whats-with-this-cpu-usage)を認めているため、配信前に動作確認してください。**製品ページ・リポジトリ：英語。**
+- [VRM Live Viewer](https://fantom1x.booth.pm/items/1783082) — FantomによるWindows 10/11（x64）向けの無料ビューアー。VMD・BVHモーションや背景のカスタマイズを使い、VRMアバターのダンス動画を演出できます。VRM 1.0には非対応です。[公式FAQ](https://note.com/fantom1x/n/nb7c0299faa74)ではアプリ自体の営利利用が認められていますが、モデル・モーション・楽曲・プリセット素材の利用許諾は別途確認が必要です。**製品ページ：日本語・一部英語。FAQ：主に日本語。**
+- [SAMMI VTube Studio Extension](https://github.com/HueVirtualCreature/SAMMIVtubeStudioExtension) — SAMMIの自動処理からVTube Studioの表情、モデル・アイテムの操作、ホットキーを実行する、HueVirtualCreatureによるMITライセンスのコミュニティ製拡張。VTube Studio 1.21.5以降、起動中のSAMMI Bridge、VTube Studio内での認証が必要です。[SAMMI Core](https://sammi.solutions/docs/download)の公式対応OSはWindows 10以降です。拡張の各リリースの要件を確認し、配信前にボタンの動作をテストしてください。**リポジトリ・ドキュメント：英語。**
+
 ## 学習リソース
 
 - [Live2D Cubism チュートリアル](https://docs.live2d.com/cubism-editor-tutorials/top/) — イラストの準備から表情、体の動き、アニメーションまで、モデル制作の流れを学べる公式教材。**ドキュメント：英語・日本語。**
