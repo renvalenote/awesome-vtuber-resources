@@ -29,6 +29,7 @@ VTuber活動に役立つツール、チュートリアル、検索サービス�
 - [Live2D Cubism](https://www.live2d.com/) — イラストをもとに2Dモデルを制作し、動きを付けるためのソフトウェア。イラストレーターやLive2Dモデラーの制作の入口に。**サイト：英語・日本語。**
 - [VRoid Studio](https://vroid.com/studio) — 人型の3Dキャラクターを制作し、対応アプリで使えるVRMモデルとして書き出せるツール。**サイト：英語・日本語。**
 - [Inochi Creator](https://github.com/Inochi2D/inochi-creator) — レイヤー分けした2Dイラストに動きを付け、VTuber活動などのリアルタイム用途に使うInochi2D形式のモデルを制作するエディター。ソースコードは[BSD-2-Clauseライセンス](https://github.com/Inochi2D/inochi-creator/blob/v0_8/LICENSE)で公開されていますが、ブランド素材には別の制限があることがリポジトリに明記されています。**リポジトリ：英語。**
+- [Ayatsuri2D](https://ayatsuri-2d.org/) — PSD・Krita・Clip Studio Paintのレイヤー分けしたイラストにリギングを行う、独立した[GPL-3.0](https://github.com/Yoru-KenomoVT/ayatsuri_2d/blob/main/LICENSE)のエディター。Cubism Editorの.cmo3プロジェクトを読み込み、VTube Studioなどで使うmoc3一式を書き出せます。Windows 10/11（x64）、macOS 11以降、Linux（x86_64）に対応。VTube Studio向けには[書き出しガイド](https://ayatsuri-2d.org/docs/export/)にある既定のmoc3 5.0を使用してください。バックアップを取り、利用先のアプリで書き出したモデルをテストしてください。**リンク先サイト・ドキュメント：英語。**
 - [Krita](https://krita.org/ja/features/) — 2Dモデル制作向けにパーツを分けたレイヤー付き原画を作成し、PSDファイルを書き出すための描画ツール。[PSD形式の制限](https://docs.krita.org/en/general_concepts/file_formats/file_psd.html)を確認し、使用するモデリングツールで読み込みをテストしてください。KritaはLive2Dの[読み込み確認済み描画アプリ](https://docs.live2d.com/en/cubism-editor-manual/precautions-for-psd-data/)には含まれていません。**サイト：英語・日本語。リンク先の互換性資料：英語。**
 - [VRM Add-on for Blender](https://github.com/saturday06/VRM-Addon-for-Blender) — BlenderでVRMアバターを読み込み・編集・書き出しし、HumanoidやMToonの設定を行えるアドオン。使用するBlenderのバージョンに合った導入手順を参照してください。**リポジトリ：英語・日本語。**
 
