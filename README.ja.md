@@ -67,6 +67,8 @@ VTuber活動に役立つツール、チュートリアル、検索サービス�
 - [VRM Live Viewer](https://fantom1x.booth.pm/items/1783082) — FantomによるWindows 10/11（x64）向けの無料ビューアー。VMD・BVHモーションや背景のカスタマイズを使い、VRMアバターのダンス動画を演出できます。VRM 1.0には非対応です。[公式FAQ](https://note.com/fantom1x/n/nb7c0299faa74)ではアプリ自体の営利利用が認められていますが、モデル・モーション・楽曲・プリセット素材の利用許諾は別途確認が必要です。**製品ページ：日本語・一部英語。FAQ：主に日本語。**
 - [SAMMI VTube Studio Extension](https://github.com/HueVirtualCreature/SAMMIVtubeStudioExtension) — SAMMIの自動処理からVTube Studioの表情、モデル・アイテムの操作、ホットキーを実行する、HueVirtualCreatureによるMITライセンスのコミュニティ製拡張。VTube Studio 1.21.5以降、起動中のSAMMI Bridge、VTube Studio内での認証が必要です。[SAMMI Core](https://sammi.solutions/docs/download)の公式対応OSはWindows 10以降です。拡張の各リリースの要件を確認し、配信前にボタンの動作をテストしてください。**リポジトリ・ドキュメント：英語。**
 
+- [nizima ACTION!!](https://site.nizima-action.com/en/) — モデルの読み込み、字幕、音声に合わせたリップシンクで短いアバター動画を作る、Live2D公式のブラウザー動画編集ツール。PC向けの[動作環境](https://docs.nizima-action.com/en/manual/system-requirements/)を確認してください。スマートフォンは非対応です。ベータ版ソフトウェアは[規約](https://site.nizima-action.com/ja/terms-of-use/)の範囲内で商用利用も無償ですが、提供素材には[別の利用条件](https://site.nizima-action.com/ja/material-data-terms-of-use/)があり、素材を法人が商用利用する場合は問い合わせが必要です。**サイト・ドキュメント：英語・日本語。規約は日本語が正文。**
+
 ## 学習リソース
 
 - [Live2D Cubism チュートリアル](https://docs.live2d.com/cubism-editor-tutorials/top/) — イラストの準備から表情、体の動き、アニメーションまで、モデル制作の流れを学べる公式教材。**ドキュメント：英語・日本語。**
@@ -116,6 +118,9 @@ VTuber活動に役立つツール、チュートリアル、検索サービス�
 - [OpenSeeFace](https://github.com/emilianavt/OpenSeeFace) — Webカメラの顔の特徴点をUDPで送り、付属のUnity受信コンポーネントと組み合わせてアバタートラッキングを実装するためのライブラリ。単体でアバターを動かすアプリではありません。コードとモデルはBSD-2-Clauseで公開されており、バイナリ版を再配布する場合は同梱のサードパーティーライセンス表記も必要です。**リポジトリ・ドキュメント：英語。**
 
 - [pyvts](https://github.com/Genteki/pyvts) — 独自のトラッキングパラメータなど、VTube Studio用プラグインを開発するための、GentekiによるMITライセンスのPythonライブラリ。接続とVTube Studio側での認証は[チュートリアル](https://genteki.github.io/pyvts/toctree2_tutorial.html)を参照してください。単体のトラッキングアプリではなく、開発用ライブラリです。**リポジトリ・ドキュメント：英語。**
+
+- [godot-vrm](https://github.com/V-Sekai/godot-vrm) — VRM 0.0・1.0アバターの読み込み、VRM 1.0の書き出し、MToon描画に対応する、独自アバターアプリ開発向けのV-Sekai製Godotアドオン。[Asset Library版](https://godotengine.org/asset-library/asset/2031)はGodot 4.1以降向けです。コードはMITライセンスですが、サンプルモデルには別のライセンスが適用されます。記載された機能上の制限を確認してください。VRM Animation（.vrma）は未実装です。**リポジトリ：英語・日本語。一部未翻訳。**
+- [uOSC](https://github.com/hecomi/uOSC) — hecomiによる、MITライセンスのUnity向けOSCクライアント・サーバーライブラリ。[VMC Protocol公式サンプル](https://protocol.vmc.info/Sample)では、uOSCを使ってVRMのボーンや表情データを送受信しています。単体のトラッキングアプリやVMCの完全な実装ではなく、通信ライブラリです。サンプルが指定するUnity・UniVRMの依存関係を確認してください。**リポジトリ：英語。リンク先サンプル：英語・日本語。**
 
 ## 掲載方針と追加・修正の提案
 
