@@ -70,6 +70,8 @@ VTuber活動に役立つツール、チュートリアル、検索サービス�
 
 - [nizima ACTION!!](https://site.nizima-action.com/en/) — モデルの読み込み、字幕、音声に合わせたリップシンクで短いアバター動画を作る、Live2D公式のブラウザー動画編集ツール。PC向けの[動作環境](https://docs.nizima-action.com/en/manual/system-requirements/)を確認してください。スマートフォンは非対応です。ベータ版ソフトウェアは[規約](https://site.nizima-action.com/ja/terms-of-use/)の範囲内で商用利用も無償ですが、提供素材には[別の利用条件](https://site.nizima-action.com/ja/material-data-terms-of-use/)があり、素材を法人が商用利用する場合は問い合わせが必要です。**サイト・ドキュメント：英語・日本語。規約は日本語が正文。**
 
+- [Webcam Motion Capture](https://webcammotioncapture.info/ja/) — Windows 10以降・macOS Catalina以降で、Webカメラによる手・指・顔・上半身のトラッキングでVRMアバターを動かすアプリ。[設定ガイド](https://webcammotioncapture.info/ja/manual.php)では、VMC経由でVSeeFaceなどへハンドトラッキングを送る方法も説明しています。トラッキングは無料で試せますが、UIの非表示、VMC送信、FBX出力には有料プラン（サブスクリプションまたは前払い）が必要です。配信前に必要な指のボーンとカメラ共有の設定を確認してください。**サイト・ドキュメント：英語・日本語。**
+
 ## 学習リソース
 
 - [Live2D Cubism チュートリアル](https://docs.live2d.com/cubism-editor-tutorials/top/) — イラストの準備から表情、体の動き、アニメーションまで、モデル制作の流れを学べる公式教材。**ドキュメント：英語・日本語。**
