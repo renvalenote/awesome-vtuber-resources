@@ -70,6 +70,8 @@ Match your model format and tracking hardware to the application's requirements 
 
 - [nizima ACTION!!](https://site.nizima-action.com/en/) — Live2D's browser editor for short avatar videos, with model import, captions, and voice-driven lip sync. Check the desktop [system requirements](https://docs.nizima-action.com/en/manual/system-requirements/); smartphones are unsupported. The beta software is free, including commercial use, under its [terms](https://site.nizima-action.com/ja/terms-of-use/). Provided assets have [separate conditions](https://site.nizima-action.com/ja/material-data-terms-of-use/), including an inquiry requirement for corporate commercial use. **Website and documentation: EN / JA; Japanese terms are authoritative.**
 
+- [Webcam Motion Capture](https://webcammotioncapture.info/) — Animate VRM avatars with webcam-based hand, finger, face, and upper-body tracking on Windows 10+ or macOS Catalina+. Its [setup guide](https://webcammotioncapture.info/manual.php) also covers sending hand tracking to apps such as VSeeFace via VMC. Tracking is free to try; hiding the UI, VMC output, and FBX export require paid access (subscription or prepaid plan). Check the required finger bones and camera-sharing setup before streaming. **Website and documentation: EN / JA.**
+
 ## Learning resources
 
 - [Live2D Cubism Tutorials](https://docs.live2d.com/en/cubism-editor-tutorials/top/) — Follow the official model-making workflow, from preparing illustrations to expressions, body movement, and animation. **Documentation: EN / JA.**
