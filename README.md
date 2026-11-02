@@ -72,6 +72,8 @@ Match your model format and tracking hardware to the application's requirements 
 
 - [Webcam Motion Capture](https://webcammotioncapture.info/) — Animate VRM avatars with webcam-based hand, finger, face, and upper-body tracking on Windows 10+ or macOS Catalina+. Its [setup guide](https://webcammotioncapture.info/manual.php) also covers sending hand tracking to apps such as VSeeFace via VMC. Tracking is free to try; hiding the UI, VMC output, and FBX export require paid access (subscription or prepaid plan). Check the required finger bones and camera-sharing setup before streaming. **Website and documentation: EN / JA.**
 
+- [Shoost](https://www.patreon.com/MuRo_CG/posts/introducing-62585593) — MuRo's Windows compositing tool for adding glow, rim lighting, and background-matched colors to avatar footage. Spout input/output connects apps such as VSeeFace to OBS; OBS needs the Spout plugin. The beta is distributed to paid supporters. The creator permits monetized videos and streams; check imported model, image, and music permissions separately. **Feature guide: EN; [Japanese guide](https://muro.fanbox.cc/posts/3419623): JA.**
+
 ## Learning resources
 
 - [Live2D Cubism Tutorials](https://docs.live2d.com/en/cubism-editor-tutorials/top/) — Follow the official model-making workflow, from preparing illustrations to expressions, body movement, and animation. **Documentation: EN / JA.**
