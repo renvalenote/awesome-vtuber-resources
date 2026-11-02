@@ -72,6 +72,8 @@ VTuber活動に役立つツール、チュートリアル、検索サービス�
 
 - [Webcam Motion Capture](https://webcammotioncapture.info/ja/) — Windows 10以降・macOS Catalina以降で、Webカメラによる手・指・顔・上半身のトラッキングでVRMアバターを動かすアプリ。[設定ガイド](https://webcammotioncapture.info/ja/manual.php)では、VMC経由でVSeeFaceなどへハンドトラッキングを送る方法も説明しています。トラッキングは無料で試せますが、UIの非表示、VMC送信、FBX出力には有料プラン（サブスクリプションまたは前払い）が必要です。配信前に必要な指のボーンとカメラ共有の設定を確認してください。**サイト・ドキュメント：英語・日本語。**
 
+- [Shoost](https://muro.fanbox.cc/posts/3419623) — アバター映像にグロー、リムライト、背景に合わせた色補正を加える、MuRoによるWindows向け合成ツール。Spout入出力でVSeeFaceなどとOBSを接続でき、OBS側にはSpoutプラグインが必要です。ベータ版は有料支援者向けに配布されています。作者は収益化動画・配信での利用を認めていますが、読み込むモデル・画像・楽曲の許諾は別途確認してください。**機能紹介：日本語。[英語ガイド](https://www.patreon.com/MuRo_CG/posts/introducing-62585593)あり。**
+
 ## 学習リソース
 
 - [Live2D Cubism チュートリアル](https://docs.live2d.com/cubism-editor-tutorials/top/) — イラストの準備から表情、体の動き、アニメーションまで、モデル制作の流れを学べる公式教材。**ドキュメント：英語・日本語。**
