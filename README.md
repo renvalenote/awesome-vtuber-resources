@@ -35,6 +35,8 @@ Language notes describe the linked website or documentation, not a guarantee of 
 
 - [Ucupaint](https://extensions.blender.org/add-ons/ucupaint/) — Paint and organize avatar texture layers and masks in Blender, then bake channel images for export. The Blender Extensions build requires Blender 4.2 or newer and uses GPL-3.0-or-later; choose a compatible release for older Blender versions. **Extension page and documentation: EN.**
 
+- [Unity Asset Exporter](https://extractunitypackage.com/unitypackage-to-vrm) — Independent browser tool for converting humanoid avatars in .unitypackage files to VRM 1.0 without installing Unity. The creator documents local package processing, free single-file downloads, and limited free bulk ZIP exports with an optional paid Pro unlock. Output uses PBR materials rather than MToon; VRChat physics are not converted. Check the model's conversion and usage permissions and test the result in your target app. **Website and guides: EN.**
+
 ## Tracking and streaming
 
 Match your model format and tracking hardware to the application's requirements before building your setup.
