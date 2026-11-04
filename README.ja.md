@@ -35,6 +35,8 @@ VTuber活動に役立つツール、チュートリアル、検索サービス�
 
 - [Ucupaint](https://extensions.blender.org/add-ons/ucupaint/) — Blenderでアバターのテクスチャをレイヤーやマスクで描画・管理し、チャンネルごとの画像をベイクして書き出しに使えるアドオン。Blender Extensions版はBlender 4.2以降に対応し、GPL-3.0-or-laterで公開されています。旧版Blenderでは対応するリリースを選んでください。**拡張機能ページ・ドキュメント：英語。**
 
+- [Unity Asset Exporter](https://extractunitypackage.com/unitypackage-to-vrm) — Unityをインストールせず、.unitypackage内の人型アバターをVRM 1.0に変換する独立したブラウザツール。作者の説明ではパッケージを端末内で処理し、単一ファイルのダウンロードは無料です。無料の一括ZIP書き出しには回数制限があり、有料Proで解除できます。出力はMToonではなくPBRマテリアルを使用し、VRChatの物理設定は変換されません。モデルの変換・利用許諾を確認し、使用先のアプリで結果をテストしてください。**サイト・ガイド：英語。**
+
 ## トラッキングと配信
 
 導入前に、モデルの形式と使用するトラッキング機器がアプリの要件に合っているか確認してください。
