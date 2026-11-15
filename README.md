@@ -31,6 +31,7 @@ Language notes describe the linked website or documentation, not a guarantee of 
 - [Inochi Creator](https://github.com/Inochi2D/inochi-creator) — Rig layered 2D artwork for the Inochi2D puppet format, for VTubing and other real-time applications. The source code uses the [BSD-2-Clause license](https://github.com/Inochi2D/inochi-creator/blob/v0_8/LICENSE); the repository notes separate restrictions for branding assets. **Repository: EN.**
 - [Ayatsuri2D](https://ayatsuri-2d.org/) — A 2D rigging project whose official site announces a community takeover and the former maintainer's departure. As of November 6, 2026, the site shows a return-soon notice; its previous export guide and license-source links are unavailable. Check for restored documentation and current licensing and compatibility details before adopting it. **Website: EN.**
 - [Krita](https://krita.org/en/features/) — Prepare separated, layered artwork for 2D model production and export PSD files. Check the [PSD format limits](https://docs.krita.org/en/general_concepts/file_formats/file_psd.html) and test imports in your rigging tool; Krita is not among Live2D's [confirmed-compatible drawing applications](https://docs.live2d.com/en/cubism-editor-manual/precautions-for-psd-data/). **Website: EN / JA; linked compatibility documentation: EN.**
+- [Blender](https://github.com/blender/blender) — Free, open-source 3D creation suite for modeling, rigging, and animating custom avatars. For VRM import/export, use the separately listed VRM Add-on for Blender and follow its version-specific installation instructions. Blender as a whole uses GNU GPL v3; individual files may use compatible licenses. **Official repository: EN.**
 - [VRM Add-on for Blender](https://github.com/saturday06/VRM-Addon-for-Blender) — Import, edit, and export VRM avatars in Blender, including humanoid and MToon settings. Follow the installation instructions for your Blender version. **Repository: EN / JA.**
 
 - [Ucupaint](https://extensions.blender.org/add-ons/ucupaint/) — Paint and organize avatar texture layers and masks in Blender, then bake channel images for export. The Blender Extensions build requires Blender 4.2 or newer and uses GPL-3.0-or-later; choose a compatible release for older Blender versions. **Extension page and documentation: EN.**
@@ -143,4 +144,5 @@ When proposing a resource:
 5. Disclose any relationship to the project, and keep the English and Japanese entries in sync.
 
 Do not submit private-identity information, speculative links between past or alternate personas, leaked or unauthorized model files, or voice-cloning materials made without the speaker's permission. This list does not infer identities from voices, appearance, or social connections.
+
 

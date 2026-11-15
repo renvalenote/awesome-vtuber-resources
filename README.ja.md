@@ -31,6 +31,7 @@ VTuber活動に役立つツール、チュートリアル、検索サービス�
 - [Inochi Creator](https://github.com/Inochi2D/inochi-creator) — レイヤー分けした2Dイラストに動きを付け、VTuber活動などのリアルタイム用途に使うInochi2D形式のモデルを制作するエディター。ソースコードは[BSD-2-Clauseライセンス](https://github.com/Inochi2D/inochi-creator/blob/v0_8/LICENSE)で公開されていますが、ブランド素材には別の制限があることがリポジトリに明記されています。**リポジトリ：英語。**
 - [Ayatsuri2D](https://ayatsuri-2d.org/) — 公式サイトでコミュニティによる引き継ぎと旧メンテナーの離脱が告知されている2Dリギングプロジェクト。2026年11月6日現在、サイトには再開予定の案内が表示され、従来の書き出しガイドとライセンスの参照先は利用できません。導入前にドキュメントの復旧と最新のライセンス・互換性情報を確認してください。**サイト：英語。**
 - [Krita](https://krita.org/ja/features/) — 2Dモデル制作向けにパーツを分けたレイヤー付き原画を作成し、PSDファイルを書き出すための描画ツール。[PSD形式の制限](https://docs.krita.org/en/general_concepts/file_formats/file_psd.html)を確認し、使用するモデリングツールで読み込みをテストしてください。KritaはLive2Dの[読み込み確認済み描画アプリ](https://docs.live2d.com/en/cubism-editor-manual/precautions-for-psd-data/)には含まれていません。**サイト：英語・日本語。リンク先の互換性資料：英語。**
+- [Blender](https://github.com/blender/blender) — 独自アバターのモデリング、リギング、アニメーションに使える、無料・オープンソースの3D制作ソフトウェア。VRMの読み込み・書き出しには、別項目のVRM Add-on for Blenderを使い、Blenderのバージョンに合った導入手順を確認してください。Blender全体はGNU GPL v3で、個別ファイルには互換性のある別ライセンスが適用される場合があります。**公式リポジトリ：英語。**
 - [VRM Add-on for Blender](https://github.com/saturday06/VRM-Addon-for-Blender) — BlenderでVRMアバターを読み込み・編集・書き出しし、HumanoidやMToonの設定を行えるアドオン。使用するBlenderのバージョンに合った導入手順を参照してください。**リポジトリ：英語・日本語。**
 
 - [Ucupaint](https://extensions.blender.org/add-ons/ucupaint/) — Blenderでアバターのテクスチャをレイヤーやマスクで描画・管理し、チャンネルごとの画像をベイクして書き出しに使えるアドオン。Blender Extensions版はBlender 4.2以降に対応し、GPL-3.0-or-laterで公開されています。旧版Blenderでは対応するリリースを選んでください。**拡張機能ページ・ドキュメント：英語。**
@@ -143,4 +144,5 @@ VTuber活動に役立つツール、チュートリアル、検索サービス�
 5. プロジェクトとの関係を開示し、英語版と日本語版の内容を揃える。
 
 非公開の個人情報、前世・転生・別名義についての推測、流出データや無断配布モデル、本人の許可なく作られた音声クローン素材は掲載対象外です。声、外見、交友関係から人物の同一性を推測しません。
+
 
