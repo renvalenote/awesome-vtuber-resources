@@ -67,6 +67,7 @@ VTuber活動に役立つツール、チュートリアル、検索サービス�
 - [iFacialMocap](https://www.ifacialmocap.com/) — Face ID搭載のiPhoneから、対応するアバターアプリへフェイストラッキングを送るアプリ。[VSeeFaceでの設定](https://www.vseeface.icu/)にはARKitブレンドシェイプを用意したアバターと、iPhone・PCを同じネットワークに接続する環境が必要です。[iOS版](https://www.ifacialmocap.com/download/)には広告なしの有料版と広告付きの無料版があります。**サイト：英語・日本語。リンク先VSeeFaceガイド：英語。**
 
 - [StreamElements Alerts & Overlays](https://streamelements.com/features/overlays) — Twitchのフォローやサブスク登録の通知など、配信用アラートとオーバーレイを作成・カスタマイズできます。[公式設定ガイド](https://docs.streamelements.com/selive/guides/overlays-and-alerts)に従ってOBSのブラウザソースとして追加します。オーバーレイのURLは公開しないでください。基本のアラートとオーバーレイは無料です。**サイト・ガイド：英語。**
+- [OverlayCast Emoji Rain](https://overlaycast.com/ja/create/emoji-rain) — YouTube Live・Twitch・Kickのチャット絵文字に反応し、配信画面やVTube Studioのモデル上に演出を表示するOBSブラウザソース。モデル上で使うには同じPCでOBSとVTube Studioを起動し、VTube Studio側で初回認証が必要。プレビューは無料、配信でオーバーレイとして使うにはProが必要です。**サイト：英語・日本語・韓国語・タイ語。**
 
 - [PNGTuber Plus](https://kaiakairos.itch.io/pngtuber-plus) — 個別に動くPNGスプライトを組み合わせ、親子付け、遅れて追従する動き、跳ね・揺れ、発話・まばたきによる表示切り替えを設定してOBSへ取り込めます。Windows・macOS・Linux版があり、[ソースプロジェクト](https://github.com/kaiakairos/PNGTuber-Plus)はUnlicenseで公開されています。作者は[一部環境での性能問題](https://itch.io/t/4479727/whats-with-this-cpu-usage)を認めているため、配信前に動作確認してください。**製品ページ・リポジトリ：英語。**
 - [VRM Live Viewer](https://fantom1x.booth.pm/items/1783082) — FantomによるWindows 10/11（x64）向けの無料ビューアー。VMD・BVHモーションや背景のカスタマイズを使い、VRMアバターのダンス動画を演出できます。VRM 1.0には非対応です。[公式FAQ](https://note.com/fantom1x/n/nb7c0299faa74)ではアプリ自体の営利利用が認められていますが、モデル・モーション・楽曲・プリセット素材の利用許諾は別途確認が必要です。**製品ページ：日本語・一部英語。FAQ：主に日本語。**
