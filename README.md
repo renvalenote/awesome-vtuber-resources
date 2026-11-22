@@ -110,6 +110,8 @@ A listing is a place to start your own checks. Confirm commercial use, attributi
 
 - [Sound Effect Lab (効果音ラボ)](https://soundeffect-lab.info/) — Find short sound effects for stream segments and edited videos. The [terms](https://soundeffect-lab.info/agreement/) allow free commercial use and modification without credit, subject to restrictions. Redistribution, including sound collections and asset templates containing the sounds, adult-content use, AI training, and registering music containing these sounds with YouTube Content ID are prohibited. **Website and terms: JA.**
 
+- [DailySounds](https://dailysounds.org/?ref=vtuberres) — Preview sound effects and ambience in the browser (notification sounds, whooshes, funny and meme-style clips, rain) for stream segments and edited videos, then download MP3, WAV or OGG files without an account. The [license](https://dailysounds.org/license) allows free commercial use, including monetized streams, and editing; credit is optional. Reselling or re-uploading the raw files as a sound library and registering them with Content ID are not permitted. Some clips are fan-made, meme-style sounds named after films, games or brands, so check those before commercial use. **Website and license: EN.**
+
 ## Discovery and public credits
 
 Use directories to find leads, then check the original profile, announcement, or portfolio. Distinguish character design, illustration, Live2D rigging, 3D modeling, and outfit-specific work; one credit does not imply all of these roles.
