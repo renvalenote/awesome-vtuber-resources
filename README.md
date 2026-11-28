@@ -115,6 +115,8 @@ A listing is a place to start your own checks. Confirm commercial use, attributi
 
 - [DailySounds](https://dailysounds.org/?ref=vtuberres) — Preview sound effects and ambience in the browser (notification sounds, whooshes, funny and meme-style clips, rain) for stream segments and edited videos, then download MP3, WAV or OGG files without an account. The [license](https://dailysounds.org/license) allows free commercial use, including monetized streams, and editing; credit is optional. Reselling or re-uploading the raw files as a sound library and registering them with Content ID are not permitted. Some clips are fan-made, meme-style sounds named after films, games or brands, so check those before commercial use. **Website and license: EN.**
 
+- [InfinityLooper](https://infinitylooper.com/free/vtuber-backgrounds) — Preview and download seamlessly looping animated backgrounds (rooms, cafes, night skies, pixel art) to place behind a model as an OBS media source. Files are silent MP4s, mostly 1080p. Previews need no account, and downloads are free with a Google sign-in, subject to an account allowance. The [licence](https://infinitylooper.com/terms#licence) allows use in monetized streams and videos, with credit optional, but prohibits redistributing or reselling the raw files, including in packs or templates. **Website and licence: EN.**
+
 ## Discovery and public credits
 
 Use directories to find leads, then check the original profile, announcement, or portfolio. Distinguish character design, illustration, Live2D rigging, 3D modeling, and outfit-specific work; one credit does not imply all of these roles.
