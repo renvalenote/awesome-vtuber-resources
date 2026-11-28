@@ -43,6 +43,7 @@ VTuber活動に役立つツール、チュートリアル、検索サービス�
 導入前に、モデルの形式と使用するトラッキング機器がアプリの要件に合っているか確認してください。
 
 - [VTube Studio](https://denchisoft.com/) — フェイストラッキングでLive2Dモデルを動かし、表情や小物、シーン内の動作を制御するアプリ。[公式ドキュメント・APIリポジトリ](https://github.com/DenchiSoft/VTubeStudio)はプラグイン開発にも利用できますが、アプリ本体のソースコードではありません。**サイト：英語。**
+  - [ARVTubeLink](https://github.com/Kalyn-Voris/ARVTubeLink) — スマートフォンで取得した表情と頭の動きを、同じローカルネットワーク上のPC版 VTube Studio に送信するサードパーティー製アプリ。Android 12 以降または HarmonyOS 3.x 以降、Huawei AR Engine の顔トラッキングに対応する端末、VTube Studio のプラグインAPIの有効化が必要です。[ライセンス](https://github.com/Kalyn-Voris/ARVTubeLink/blob/main/LICENSE-ADDITIONAL.md) では、個人が自分のアバターを使ったコンテンツを収益化できます。企業の商用利用には別途許諾が必要です。**リポジトリ・導入ガイド：中国語。**
 - [VSeeFace](https://www.vseeface.icu/) — 64ビットWindowsでフェイストラッキングによりVRM 0アバターを動かし、VMC経由でトラッキングデータを送受信するアプリ。VRM 1.0は非対応で、追加の手のトラッキングにはLeap Motion機器が必要です。**サイト：英語。**
 - [Warudo](https://www.warudo.app/) — アバター、背景、小物、インタラクションを組み合わせて3D VTuberの配信シーンを構築するアプリ。初期設定と対応トラッキング方式は[公式ハンドブック](https://docs.warudo.app/jp/docs)を参照してください。**ハンドブック：英語・日本語。**
 - [veadotube mini](https://veado.tube/) — マイク入力に反応する画像でPNGTuberアバターを作り、まばたきや表情の切り替えを設定できるアプリ。[公式の使い方ガイド](https://veado.tube/docs/usage/mini/)と[OBSへの取り込みガイド](https://veado.tube/docs/usage/obs/)も参照してください。**サイト・ドキュメント：英語。**
